@@ -1,0 +1,6 @@
+{
+  "name": "Repair Pro - ระบบบันทึกและจัดการงานซ่อม",
+  "description": "ระบบบันทึกงานซ่อม ติดตามสถานะ สรุปรายงานรายเดือน รายได้ กำไร ต้นทุน พร้อมแจ้งเตือนประกันและส่งออก Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
